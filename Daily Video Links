@@ -1,0 +1,137 @@
+#template
+Date: 13-DEC-2021
+Commit : 72def22355c9b99f648240192ccb2c9bc2b223f4
+Description: Training Project Setup and MIgraiton for Database. 
+Video Link: https://www.loom.com/share/36a64166850a4a7c91e13d835e78c33f
+
+Date: 14-DEC-2021
+Commit : 4af46b4ab7fbac36511b7900c5c8863105e4af27
+Description: Seeders + TypeScript Models for Sequelize. 
+Video Link: https://www.loom.com/share/f22126c31a504a47add94ea808a393a0
+
+Date: 15-DEC-2021
+COMMIT : bd565b4e94233b9859d76a83f29d7e725bd81b00
+Description: GRAPHQL+APOLLO Setup, 
+Video Link: https://www.loom.com/share/6edab946fcdf4ccaa24cae540f5b76bd
+
+
+Date: 16-DEC-2021
+COMMIT : c09147d57dc1c834e46f4da77686f1f7a79f4d15
+Description: Type Resolver for different Entities.. 
+Video Link: https://www.loom.com/share/48ae063d3d7f418e8805a8f7fc426126
+
+Date: 17-DEC-2021
+COMMIT : 744ab0a49713d7de9c1193f9a38d4162315db3ab
+Description: Authentication and Authorization for Project.
+Video Link: https://www.loom.com/share/fb92ad4ac6fa43419269e6b8441d5b0d
+
+
+Date: 21-DEC-2021
+COMMIT :
+Description: Minor update in Backend and Starting Front-end. 
+Video Link: https://www.loom.com/share/0e2fb0d139cc4447b91d86c8cd585193
+
+Date: 22-DEC-2021
+COMMIT : 6acdb0828fc1286e933209dab2bac24020766e0a
+Description: Login and Signup page working, Apollo Client connected with Backend. 
+Video Link: https://www.loom.com/share/d70a8a60ccc6448cab157b2d3d824fb8
+
+Date: 23-DEC-2021
+COMMIT : d57634b718b0e282c7816f1e0d815d985e4a0341
+Description: Logout/Login User, TaskList Page Added.
+Video Link: https://www.loom.com/share/1174349918cf46bb9a298b14693c57f5
+
+Date: 24-DEC-2021
+COMMIT : d02ba9db9d4bfdd7f81ac6db284e3818cfccc969
+Description: Fixing Some bugs in existing app, adding addnewtasklist dialogue, adding page for tasklist to display tasks. 
+Video Link: https://www.loom.com/share/089409aa50014aba82623d16960450b6
+
+Date: 27-DEC-2021
+COMMIT : 7ba228e43d52282fd4f4fd1f210310888aaf1599
+Description: New Task Model,Tasklist page showing all tasks, some changes made to backend.
+Video Link: https://www.loom.com/share/f9946418b00e4d93a14042a8e6952346
+
+Date: 28-DEC-2021
+COMMIT : ae50b76ad1dc1104c48331086728dfb8196c28da
+Description: Add user to tasklist, delete task, mark task completed..
+Video Link: https://www.loom.com/share/cd0766a02c974198ae165f771335b481
+
+Date: 29-DEC-2021
+COMMIT : 546b4acf0f8de566c6556a3a98ba1e233187becb
+Description: "Subscription for Notifying User."
+Video Link: https://www.loom.com/share/15956a1c4b184ef18a5ff2082a09e46c
+
+Date: 30-DEC-2021
+COMMIT : 9061da67f20495f6b6c9a745635b9a21bdb3c6aa
+Description: Apollo Angular Subscription Configuration
+Video Link: https://www.loom.com/share/71ce083973ed45edb736fe0b1f4f9423
+
+Date: 3-JAN-2022
+COMMIT : 9e2d4d01b1f5bec6e570984f4fc67311697ec667
+Description: Notify User Subscription Added and working.
+Video Link: https://www.loom.com/share/491e3af4ff1842a6a0c02dfa55b55b21
+
+Date: 4-JAN-2022
+COMMIT : b51ca90d05482614db0fffec63f79a8c0194a9f3
+Description: SubDomain and Tasks Sorting.
+Video Link: https://www.loom.com/share/9c96a83654a0428085d4a6dd341cdbeb
+
+Date: 5-JAN-2022
+COMMIT : 6d241b32fb9949d0911ce4b9262b28a8f156d079
+Description: Not Refreshing the Page to update content on screen. 
+Video Link: https://www.loom.com/share/b97d9b396fe04ed7961cf26a700259a8
+
+Date: 10-JAN-2022
+COMMIT : 5f4b4292c32bea6f6b82af95eedcf55cec6edea6
+Description: Send Task to Salesforce functionality added. Assuming this is my final Video on Traninig Project. Feedback and suggestions are expected to improve this Project.  
+Video Link: https://www.loom.com/share/5db852bca8b145d79f432626c6f5ae7e
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:
+
+Date: 
+COMMIT : 
+Description: 
+Video Link:

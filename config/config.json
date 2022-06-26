@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "SA",
+    "password": "MyPassword123",
+    "database": "Butterfly",
+    "host": "localhost",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "SA",
+    "password": "MyPassword123",
+    "database": "todo-list",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "SA",
+    "password": "MyPassword123",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}

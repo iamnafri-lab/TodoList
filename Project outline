@@ -1,0 +1,58 @@
+Banjaxed To-Do list Application
+
+    The purpose of this application is to learn and utilize many of the technologies used in the Banjaxed butterfly data migration tool.
+
+These are some of the technologies and libraries that should be used:
+
+Node
+Node middleware
+JWT tokens
+Angular
+Angular routing
+Angular material theme elements
+GraphQl restful APIs
+GraphQl type resolvers
+GraphQl subscriptions
+Apollo server
+Apollo client
+Database: MySQL (change if project changes)
+Sequelize data models
+Sequelize migrations
+
+These are some of the conventions that should be followed:
+
+Same folder structure on server project as Butterfly
+Same Query and Mutation service on client
+Same implementation of ienumerable fields on data models
+Same Typescript class overriding the Sequelize Model object for each data model
+
+Parameters of the project:
+
+The project should be a To-Do list application. It should have 3 users in the initial seeder data.
+Each of the 3 initial users should have at least one task_list associated with them in the initial seeder data.
+At least one of the users should have 2 task_lists associated with them in the initial seeder data.
+At least one of the task_lists should be associated with all 3 of the initial users.
+A user should be able to add additional users.
+A user should be able to create a new task_list.
+A task_list should be able to be named.
+The task_list name should be required to be unique.
+A user should be able to add other users to a task_list.
+When logging in on the root domain the user should be presented with a list of the task_lists they have access to.
+When the user clicks on a task_list it should open on it’s own subdomain.
+If you try to access the subdomain of a specific task_list it should validate that you are a user with access to that specific task_list.
+On a specific task_list a user should be able to add tasks to the task_list
+A task should be able to be checked as completed
+A task should have a deadline property
+In the UI the user should be able to see “x days y minutes z seconds until due”
+If the task is past due it should display “x days y minutes z seconds past due”
+If the another user assigns the current user a task list while the current user is logged in, a snackbar should pop up that says, “List X has been assigned to you by Y” (this should be done utilizing GraphQl subscriptions)
+The task_list view should have the following filters on the top of the page: “incomplete only”, “complete only”, “past due”.
+Those filters should be past as url parameters and update the list of tasks displayed in the task list
+
+That is it! That is the task list application.
+
+You will be shared a github repository to start working. Please commit changes each time you accomplish something new so that we can see your progress over time. You may look at the Butterfly project existing repositories to see how things have been done. You may ask as many questions as you want during the designated times, but no one will write code for you. Good luck!
+
+---
+
+Bonus: User should be able to enter his Salesforce credentials and token and send his Tasks to Salesforce.

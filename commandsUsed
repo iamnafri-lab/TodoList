@@ -1,0 +1,23 @@
+npx sequelize migration:create --name [Name] // Creates file for migration in migration folder.
+npx sequelize seed:generate --name [add-NAME] // Creates file for seed in Seeders folder.
+
+
+
+things to do : 
+    -
+    -get all tasks when given A tasklistID;
+    -get 
+
+    Adding DATA: 
+        Tasks:
+            Add new task to task-list.
+        TaskList: 
+            Create New TaskList.
+            get all tasks when passing a tasklistID.
+        User:
+            Add new User.
+            get all users.
+            look for user with matching username.
+        ListAccess:
+            get all taskLists which he Has Access to using UserID
+    
